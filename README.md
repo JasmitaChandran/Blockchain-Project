@@ -1,4 +1,4 @@
-# Blockchain Rental Property System (Easy Demo)
+# Blockchain Rental Property System
 
 This repo contains a tiny, self-contained example of a blockchain-inspired rental property workflow. It is intentionally simple so you can run it without special tooling or dependencies.
 
